@@ -1,0 +1,37 @@
+content:
+- Introduction to Java
+- Printing data
+- Types and variables
+- Comments
+- Switch statement
+- The main method
+- Functional decomposition
+- Array
+- Iterating over arrays
+- Multidimensional array
+- Arrays as parameters
+- Errors in programs
+- Defining classes
+- Constructor
+- Instance methods
+- Interface
+- Integer types and operations
+- Package
+- Increment and decrement
+- Getters and setters
+- Boxing and unboxing
+- Introduction to generic programming
+- Generics and Object
+- What are collections
+- ArrayList
+- The List interface
+- Getting data from REST
+- Overloading
+- Multiple constructors
+- Threads as objects
+- Custom threads
+- The keyword super
+- Exception handling
+- Thread management
+- Thread synchronization
+- Posting and deleting data via REST
